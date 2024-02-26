@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Prueba Kosmos Android</string>
+    <string name="key_fire">717436210391-3mjj4nb220bbetusrfm1qfijpm6fmpdi.apps.googleusercontent.com</string>
+    <string name="delete">Eliminar</string>
+    <string name="update">Editar</string>
+    <string name="age_student">Años</string>
+    <string name="name">Nombre</string>
+    <string name="age">Edad</string>
+    <string name="btn_save">Guardar</string>
+    <string name="wather_image_cd">wather image</string>
+    <string name="update_btn">Actualizar</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_movies">Peliculas</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_image">Imagenes</string>
+    <string name="url_image_base">https://image.tmdb.org/t/p/original</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyChuIWP7kUwZ01Ev51IsB6kQ1Qup6f4hWo</string>
+    <string name="upload_image_to_firebase">SUBIR IMAGEN A FIREBASE STORAGE</string>
+    <string name="select_image">Subir imagen</string>
+    <string name="fav_text">Favoritos</string>
+    <string name="recomendacion">Recomendacion</string>
+    <string name="popular">Popular</string>
+    <string name="top_ranked">Top Ranked</string>
+
+
+</resources>
